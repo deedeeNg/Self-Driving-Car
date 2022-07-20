@@ -5,6 +5,12 @@
     text-align: center;
 }
 
+button{
+    cursor: pointer;
+}
+button:hover{
+    background: blue;
+}
 #carCanvas{
     background: lightgray;
 }
